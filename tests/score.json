@@ -1,0 +1,46 @@
+{
+  "cases": 10,
+  "score": 100.0,
+  "per_case": [
+    {
+      "case_id": "UC6-T01",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC6-T02",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC6-T03",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC6-T04",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC6-T05",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC6-T06",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC6-T07",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC6-T08",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC6-T09",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC6-T10",
+      "score": 1.0
+    }
+  ]
+}

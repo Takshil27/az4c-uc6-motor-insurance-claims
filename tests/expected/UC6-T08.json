@@ -1,0 +1,1 @@
+{"case_id":"UC6-T08","decision":"pay_partial","reason_code":["DEPRECIATION_APPLIED"],"amount":{"value":95000.0,"tolerance":1.0},"key_numbers":[{"value":95000.0,"tolerance":1.0}],"must_cite":["BS/MOT/3614796"],"needs_human":true}

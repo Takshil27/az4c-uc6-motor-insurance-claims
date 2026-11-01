@@ -1,0 +1,1 @@
+{"case_id":"UC6-T01","decision":"pay_full","reason_code":["COVERED"],"amount":{"value":32010.0,"tolerance":1.0},"key_numbers":[{"value":32010.0,"tolerance":1.0}],"must_cite":["BS/MOT/8410022"],"needs_human":false}
